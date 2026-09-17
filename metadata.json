@@ -1,0 +1,6 @@
+{
+  "name": "VENTRA — Software House",
+  "description": "VENTRA brings software, AI, cloud, and digital products together in one connected experience. Build smarter. Ship faster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
